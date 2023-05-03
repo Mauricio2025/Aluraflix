@@ -7,6 +7,9 @@ body {
     background-position: center top;
     background-repeat: no-repeat;
   }
+  .inicial{
+    background-color: rgb(3, 3, 92);
+  }
   
   .container {
     text-align: center;

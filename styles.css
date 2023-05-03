@@ -72,3 +72,7 @@ img {
   box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px;
   text-align: center;
 }
+
+.linha{
+  border-top: 0.4px solid #FFF2E7;
+}
